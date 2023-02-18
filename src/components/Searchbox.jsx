@@ -11,3 +11,5 @@ const SearchBox = (props) => {
         </div>
     )
 }
+
+export default SearchBox;
